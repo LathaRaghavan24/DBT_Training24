@@ -10,4 +10,4 @@ with attendance_data as (
 
 )
 select *
-from attendance_data ;
+from attendance_data
