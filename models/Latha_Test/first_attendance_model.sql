@@ -1,4 +1,4 @@
---{{ config(materialized='table') }}
+{{ config(materialized='table') }}
 
 with attendance_data as (
 
@@ -10,4 +10,4 @@ with attendance_data as (
 
 )
 select *
-from attendance_data 
+from attendance_data ;
