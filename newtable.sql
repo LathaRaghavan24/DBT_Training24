@@ -1,0 +1,1 @@
+Create or replace table t1(id int, name varchar);
