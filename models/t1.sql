@@ -1,1 +1,3 @@
-CREATE OR REPLACE TABLE T1 (ID INT, NAME VARCHAR);
+create or replace table attedance 
+as 
+select * from attendance_data
